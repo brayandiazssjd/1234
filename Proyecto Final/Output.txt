@@ -1,1 +1,0 @@
- _class pepe (el)  :	     				 if ( op == 1 ) :    							  h = 54 				 		 if ( op == 2 ) :    					 if ( i > 45 ) :							  k = 45 			 			 else :								l = 888 			 		 	 
